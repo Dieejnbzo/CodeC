@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    // test
     int m,n,i,j;
     printf("Nhap 2 so m,n: ");
     scanf("%d%d",&m,&n);
